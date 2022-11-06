@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rotator>
+
+	<panel>
+		<number>1</number>
+		<image>https://sacredheartradio.org/apps/app_img/Faith-Retriever.jpg</image>
+		<url>https://sacredheartradio.org/project/faith-retriever</url>
+		<redirect>y</redirect>
+	</panel>
+	
+  	<panel>
+		<number>2</number>
+		<image>https://sacredheartradio.org/apps/app_img/Follow-us.jpg</image>
+		<url>https://edenari.denarionline.com/CustomPages/?page=F27FA7ED97</url>
+		<redirect>y</redirect>
+	</panel>
+	
+	<panel>
+		<number>3</number>
+		<image>https://sacredheartradio.org/apps/app_img/Grays-Harbor-Growing-2.jpg</image>
+		<url>https://sacredheartradio.org/catholicevents/</url>
+		<redirect>y</redirect>
+	</panel>
+	
+  	<panel>
+		<number>4</number>
+		<image>https://sacredheartradio.org/apps/app_img/Mass-Rosary-DivineMercy.jpg</image>
+		<url>https://sacredheartradio.org/project/the-holy-rosary/</url>
+		<redirect>y</redirect>
+	</panel>
+	
+    <panel>
+		<number>5</number>
+		<image>https://sacredheartradio.org/apps/app_img/Amazonsmile-App.jpg</image>
+		<url>https://smile.amazon.com/ch/91-1981990</url>
+		<redirect>y</redirect>
+	</panel>
+	
+	<panel> 
+		<number>6</number>
+		<image>https://sacredheartradio.org/apps/app_img/Schedule.jpg</image>
+		<url>https://sacredheartradio.org/wp-content/uploads/2022/02/22122-1.pdf</url> 
+		<redirect>y</redirect>
+	</panel>
+	
+	<panel>
+		<number>7</number>
+		<image>https://sacredheartradio.org/apps/app_img/IRA-App.jpg</image>
+		<url>https://sacredheartradio.org</url>
+		<redirect>y</redirect>
+	</panel>
+	
+	<panel>
+		<number>8</number>
+		<image>https://sacredheartradio.org/apps/app_img/Radio-Catolica-Yakima.jpg</image>
+		<url>https://elsembradorministries.com/esne/radio</url>
+		<redirect>y</redirect>
+	</panel>
+	
+	
+	
+</rotator>
