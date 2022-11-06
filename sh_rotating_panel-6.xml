@@ -17,14 +17,14 @@
 	
 	<panel>
 		<number>3</number>
-		<image></image>
+		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/Follow-us.jpg?raw=true</image>
 		<url>https://sacredheartradio.org/catholicevents/</url>
 		<redirect>y</redirect>
 	</panel>
 	
   	<panel>
 		<number>4</number>
-		<image>https://sacredheartradio.org/apps/app_img/Mass-Rosary-DivineMercy.jpg</image>
+		<image></image>
 		<url>https://sacredheartradio.org/project/the-holy-rosary/</url>
 		<redirect>y</redirect>
 	</panel>
