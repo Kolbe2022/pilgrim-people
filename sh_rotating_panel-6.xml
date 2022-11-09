@@ -17,12 +17,12 @@
 	
 	<panel>
 		<number>3</number>
-		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/Follow-us.jpg?raw=true</image>
-		<url>https://sacredheartradio.org/catholicevents/</url>
+		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/IRA-App.jpg?raw=true</image>
+		<url>https://sacredheartradio.org</url>
 		<redirect>y</redirect>
 	</panel>
 	
-  	<panel>
+	<panel>
 		<number>4</number>
 		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/Mass-Rosary-DivineMercy.jpg?raw=true</image>
 		<url>https://sacredheartradio.org/project/the-holy-rosary/</url>
@@ -38,20 +38,13 @@
 	
 	<panel> 
 		<number>6</number>
-		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/Schedule.jpg</image>
+		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/Schedule.jpg?raw=true</image>
 		<url>https://sacredheartradio.org/wp-content/uploads/2022/02/22122-1.pdf</url> 
 		<redirect>y</redirect>
 	</panel>
-	
+		
 	<panel>
 		<number>7</number>
-		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/IRA-App.jpg?raw=true</image>
-		<url>https://sacredheartradio.org</url>
-		<redirect>y</redirect>
-	</panel>
-	
-	<panel>
-		<number>8</number>
 		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/Radio-Catolica-Yakima.jpg?raw=true</image>
 		<url>https://elsembradorministries.com/esne/radio</url>
 		<redirect>y</redirect>
