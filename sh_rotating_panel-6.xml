@@ -3,19 +3,19 @@
 
 	<panel>
 		<number>1</number>
+		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/GiveTuesday-2022.jpg?raw=true</image>
+		<url>https://edenari.denarionline.com/CustomPages/?page=F27FA7ED97faith-retriever</url>
+		<redirect>y</redirect>
+	</panel>
+	
+	<panel>
+		<number>2</number>
 		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/Faith-Retreiver.jpg?raw=true</image>
 		<url>https://sacredheartradio.org/project/faith-retriever</url>
 		<redirect>y</redirect>
 	</panel>
 	
   	<panel>
-		<number>2</number>
-		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/Follow-us.jpg?raw=true</image>
-		<url>https://edenari.denarionline.com/CustomPages/?page=F27FA7ED97</url>
-		<redirect>y</redirect>
-	</panel>
-	
-	<panel>
 		<number>3</number>
 		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/IRA-App.jpg?raw=true</image>
 		<url>https://sacredheartradio.org</url>
