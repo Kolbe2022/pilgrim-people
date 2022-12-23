@@ -3,7 +3,8 @@
 
 	<panel>
 		<number>1</number>
-		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/Year-End-Giving-2022.jpg?raw=true</image>
+		
+		<image>https://github.com/Kolbe2022/pilgrim-people/blob/c986e0dd0e864bf8b4b41919a6c8b2b243ce6639/Christmas-Schedule-2022.jpg
 		<url>https://edenari.denarionline.com/CustomPages/?page=F27FA7ED97faith-retriever</url>
 		<redirect>y</redirect>
 	</panel>
