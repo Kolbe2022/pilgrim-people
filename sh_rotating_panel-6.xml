@@ -7,6 +7,7 @@
 		<url>https://sacredheartradio.org</url>
 		<redirect>y</redirect>
 	</panel>
+	
 	<panel>
 		<number>2</number>
 		
@@ -29,7 +30,7 @@
 		<redirect>y</redirect>
 	</panel>
 	
-    <panel>
+        <panel>
 		<number>5</number>
 		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/AmazonSmileApp.png?raw=true</image>
 		<url>https://smile.amazon.com/ch/91-1981990</url>
