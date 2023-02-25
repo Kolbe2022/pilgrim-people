@@ -3,6 +3,12 @@
 
 	<panel>
 		<number>1</number>
+		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/lentenjourney.jpg?raw=true</image>
+		<url>https://sacredheartradio.org</url>
+		<redirect>y</redirect>
+	</panel>
+	<panel>
+		<number>2</number>
 		
 		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/Localshowpodcastapp.png?raw=true</image>
 		<url>https://sacredheartradio.org/programsandpodcasts/</url>
@@ -10,20 +16,13 @@
 	</panel>
 	
 	<panel>
-		<number>2</number>
+		<number>3</number>
 		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/Faith-Retreiver.jpg?raw=true</image>
 		<url>https://sacredheartradio.org/project/faith-retriever</url>
 		<redirect>y</redirect>
 	</panel>
 	
   	<panel>
-		<number>3</number>
-		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/Doctor-Doctor.jpg?raw=true</image>
-		<url>https://sacredheartradio.org</url>
-		<redirect>y</redirect>
-	</panel>
-	
-	<panel>
 		<number>4</number>
 		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/Mass-Rosary-DivineMercy.jpg?raw=true</image>
 		<url>https://sacredheartradio.org/project/the-holy-rosary/</url>
