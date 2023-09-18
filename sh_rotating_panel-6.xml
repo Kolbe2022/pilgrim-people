@@ -4,57 +4,7 @@
 	<panel>
 		<number>1</number>
 		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/Schedule-app.png?raw=true</image>
-		<url>https://sacredheartradio.org/wp-content/uploads/2023/04/04032023-Schedule-Front-1.pdf</url>
-		<redirect>y</redirect>
-	</panel>
-	
-	<panel>
-		<number>2</number>
-		
-		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/TheSpiritWorld.png?raw=true</image>
-		<url>https://sacredheartradio.org/project/4618/</url>
-		<redirect>y</redirect>
-	</panel>
-	
-	<panel>
-		<number>3</number>
-		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/Catholic-Event-Copy.jpg?raw=true</image>
-		<url>https://sacredheartradio.org/catholic-events-page</url>
-		<redirect>y</redirect>
-	</panel>
-	
-	<panel> 
-		<number>4</number>
-		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/corporatematching.png?raw=true</image>
-		<url>https://sacredheartradio.org/waystodonate/</url> 
-		<redirect>y</redirect>
-	</panel>	
-		
-  	<panel>
-		<number>5</number>
-		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/Mass-Rosary-DivineMercy.jpg?raw=true</image>
-		<url>https://sacredheartradio.org/project/the-holy-rosary/</url>
-		<redirect>y</redirect>
-	</panel>
-	
-        <panel>
-		<number>6</number>
-		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/register.jpg?raw=true</image>
-		<url>https://sacredheartradio.org/project/register-radio</url>
-		<redirect>y</redirect>
-	</panel>
-	
-	<panel> 
-		<number>7</number>
-		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/podcasts.png?raw=true</image>
-		<url>https://sacredheartradio.org/program-and-podcasts/</url>
-		<redirect>y</redirect>
-	</panel>
-		
-	<panel>
-		<number>8</number>
-		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/Radio-Catolica-Yakima.jpg?raw=true</image>
-		<url>https://elsembradorministries.com/esne/radio</url>
+		<url>a href=“tel:+8009491050”</url>
 		<redirect>y</redirect>
 	</panel>
 		
