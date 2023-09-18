@@ -3,8 +3,8 @@
 
 	<panel>
 		<number>1</number>
-		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/Schedule-app.png?raw=true</image>
-		<url>a href=“tel:+8009491050”</url>
+		<image>https://github.com/Kolbe2022/pilgrim-people/blob/main/pd23b%20640X200.jpg?raw=true</image>
+		<url>tel:8009491050</url>
 		<redirect>y</redirect>
 	</panel>
 		
