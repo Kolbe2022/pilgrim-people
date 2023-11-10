@@ -2,22 +2,8 @@
 
   <panel>
     <number>1</number>
-    <image>https://sample.com/image1.jpg</image>
-    <url>https://sample.com/donate</url>
-    <redirect>n</redirect>
-  </panel>
-  
-  <panel>
-    <number>2</number>
-    <image>https://sample.com/image2.jpg</image>
-    <url>https://sample.com/news</url>
-    <redirect>n</redirect>
-  </panel>
-  
-  <panel>
-    <number>3</number>
-    <image>https://sample.com/image3.jpg</image>
-    <url>https://sample.com/events</url>
+    <image>https://github.com/Kolbe2022/pilgrim-people/blob/main/jacapps-top-panel/sh-radio-top.png?raw=true</image>
+    <url>https://sacredheartradio.org</url>
     <redirect>n</redirect>
   </panel>
 
