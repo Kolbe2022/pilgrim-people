@@ -2,21 +2,21 @@
 
   <panel>
     <number>1</number>
-    <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/1.jpg</image>
+    <image></image>
     <url>mailto:gina@sacredheartradio.org</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
     <number>2</number>
-    <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/2.jpg</image>
+    <image></image>
     <url>https://sacredheartradio.org/stations/</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
     <number>3</number>
-    <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/5.jpg</image>
+    <image></image>
     <url>https://sacredheartradio.org/program-and-podcasts/</url>
     <redirect>n</redirect>
   </panel>
@@ -43,3 +43,4 @@
   </panel>
 
 </rotator>
+
