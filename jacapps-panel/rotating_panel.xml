@@ -3,14 +3,14 @@
   <panel>
     <number>1</number>
     <image></image>
-    <url>mailto:gina@sacredheartradio.org</url>
+    <url></url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
     <number>2</number>
     <image></image>
-    <url>https://sacredheartradio.org/stations/</url>
+    <url></url>
     <redirect>n</redirect>
   </panel>
   
@@ -43,4 +43,5 @@
   </panel>
 
 </rotator>
+
 
