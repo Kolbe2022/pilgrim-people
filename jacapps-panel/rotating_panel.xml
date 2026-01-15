@@ -23,14 +23,14 @@
 
   <panel>
     <number>4</number>
-    <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/4.jpg/image>
-    <url><https://sacredheartradio.org/catholicevents/url>
+    <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/4.jpg</image>
+    <url>https://sacredheartradio.org/catholicevents/</url>
     <redirect>n</redirect>
   </panel>
 
   <panel>
     <number>5</number>
-    <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/55.jpg/image/image>
+    <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/55.jpg</image>
     <url></url>
     <redirect>n</redirect>
   </panel>
@@ -43,6 +43,7 @@
   </panel>
 
 </rotator>
+
 
 
 
