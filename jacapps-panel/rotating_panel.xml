@@ -30,7 +30,7 @@
 
   <panel>
     <number>5</number>
-    <image></image>
+    <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/55.jpg/image/image>
     <url></url>
     <redirect>n</redirect>
   </panel>
@@ -43,6 +43,7 @@
   </panel>
 
 </rotator>
+
 
 
 
