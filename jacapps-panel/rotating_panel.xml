@@ -2,15 +2,15 @@
 
   <panel>
     <number>1</number>
-    <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/Pope Intentions.jpg</image>
-    <url>https://ewtnvatican.com/articles/pope-leo-xiv-prayer-intentions-2026</url>
+    <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/1.jpg</image>
+    <url>https://www.ewtnnews.com/</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
     <number>2</number>
-    <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/2.jpg</image>
-    <url>https://edenari.denarionline.com/CustomPages/?page=F27FA7ED97</url>
+    <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/5.jpg</image>
+    <url>https://sacredheartradio.org/prayer-wall/</url>
     <redirect>n</redirect>
   </panel>
   
@@ -23,15 +23,15 @@
 
   <panel>
     <number>4</number>
-    <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/4.jpg</image>
-    <url>https://www.catholicnewsagency.com/</url>
+    <image></image>
+    <url></url>
     <redirect>n</redirect>
   </panel>
 
   <panel>
     <number>5</number>
-    <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/5.jpg</image>
-    <url>https://sacredheartradio.org/prayer-wall/</url>
+    <image></image>
+    <url></url>
     <redirect>n</redirect>
   </panel>
 
@@ -43,6 +43,7 @@
   </panel>
 
 </rotator>
+
 
 
 
