@@ -1,48 +1,56 @@
 <rotator>
 
-  <panel>
+   <panel>
     <number>1</number>
+    <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/1.jpg</image>
+    <url></url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>2</number>
     <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/1.jpg</image>
     <url>https://www.ewtnnews.com/</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
-    <number>2</number>
+    <number>3</number>
     <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/51.jpg</image>
     <url>https://sacredheartradio.org/miracles/</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
-    <number>3</number>
+    <number>4</number>
     <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/31.jpg</image>
     <url>https://sacredheartradio.org/project/lifetalk/</url>
     <redirect>n</redirect>
   </panel>
 
   <panel>
-    <number>4</number>
+    <number>5</number>
     <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/4.jpg</image>
     <url>https://sacredheartradio.org/catholicevents/</url>
     <redirect>n</redirect>
   </panel>
 
   <panel>
-    <number>5</number>
+    <number>6</number>
     <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/55.jpg</image>
     <url></url>
     <redirect>n</redirect>
   </panel>
 
  <panel>
-    <number>6</number>
+    <number>7</number>
     <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/6.jpg</image>
     <url>https://esneradio.com/</url>
     <redirect>n</redirect>
   </panel>
 
 </rotator>
+
 
 
 
