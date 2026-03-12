@@ -2,7 +2,7 @@
 
    <panel>
     <number>1</number>
-    <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main-panel/25 SHR PC.jpg</image>
+    <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/25 SHR PC.jpg</image>
     <url></url>
     <redirect>n</redirect>
   </panel>
@@ -50,6 +50,7 @@
   </panel>
 
 </rotator>
+
 
 
 
