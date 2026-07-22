@@ -44,6 +44,13 @@
 
  <panel>
     <number>7</number>
+    <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/7.jpg</image>
+    <url>https://sacredheartradio.org/project/sound-insight/</url>
+    <redirect>n</redirect>
+  </panel>
+
+<panel>
+    <number>8</number>
     <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/6.jpg</image>
     <url>https://esneradio.com/</url>
     <redirect>n</redirect>
