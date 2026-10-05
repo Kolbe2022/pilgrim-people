@@ -9,7 +9,7 @@
   
   <panel>
     <number>2</number>
-    <image></image>
+    <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/11.jpg/image>
     <url></url>
     <redirect>n</redirect>
   </panel>
@@ -37,8 +37,8 @@
 
   <panel>
     <number>6</number>
-    <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/11.jpg</image>
-    <url></url>
+    <image>https://raw.githubusercontent.com/Kolbe2022/pilgrim-people/main/jacapps-panel/5.jpg</image>
+    <url>mailto:prayforme@sacredheartradio.org</url>
     <redirect>n</redirect>
   </panel>
 
